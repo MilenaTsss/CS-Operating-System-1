@@ -1,0 +1,2 @@
+num of good words - 500
+num of all words - 516
